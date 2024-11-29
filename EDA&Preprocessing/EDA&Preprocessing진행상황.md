@@ -27,7 +27,7 @@
    - children: 호텔에 방문한 청소년 수
    - babies: 호텔에 방문한 유아 수
    - meal: 예약된 식사 유형(Undefined / SC는 식사가 없는 경우)
-   - country: 호텔이 위치한 국가
+   - country: 호텔을 예약한 손님의 국가
    - market_segment: 마켓 구분(TA: Travel Agents / TO: Tour Operator)
    (아래 컬럼이랑 비슷한 느낌인거 같은데, 더 찾아보겠습니다)
    - distrubution_channel: 예약 채널(TA: Travel Agents / TO: Tour Operator)
