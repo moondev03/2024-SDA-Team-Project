@@ -32,6 +32,8 @@
         </a>
     </td>
     <td align="center">
-          <div>(나중에 학번 기입) 박세민</div>
+        <a href="https://github.com/seminjjang">
+          <div>60210021 박세민</div>
+        </a>
     </td>
 
