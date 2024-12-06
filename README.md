@@ -21,7 +21,7 @@
   <tr>
     <td align="center">
         <a href="https://github.com/moondev03">
-            <div>(나중에 학번 기입) 문장훈</div>
+            <div>60191652 문장훈</div>
         </a>
     </td>
     <td align="center">
