@@ -31,7 +31,7 @@
     </td>
     <td align="center">
         <a href="https://github.com/Inseo-Baek">
-            <div>(나중에 학번 기입) 백인서</div>
+            <div>60231179 백인서</div>
         </a>
     </td>
     <td align="center">
