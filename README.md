@@ -20,21 +20,25 @@
   </tr>
   <tr>
     <td align="center">
+        <strong>Regression Testing 담당</strong>
         <a href="https://github.com/moondev03">
             <div>60191652 문장훈</div>
         </a>
     </td>
     <td align="center">
+        <strong>EDA & Preprocessing 담당</strong>
         <a href="https://github.com/wambatcodeeee">
             <div>60191682 임준용</div>
         </a>
     </td>
     <td align="center">
+        <strong>발표 & 발표자료 담당</strong>
         <a href="https://github.com/Inseo-Baek">
             <div>60231179 백인서</div>
         </a>
     </td>
     <td align="center">
+        <strong>Hyphothesis Testing 담당</strong>
         <a href="https://github.com/seminjjang">
           <div>60210021 박세민</div>
         </a>
