@@ -198,7 +198,7 @@ Kurtosis:                       7.180   Cond. No.                         2.44
 ==============================================================================
 ```
 
-![alt text](./image/Actual%20vs%20Predicted.png)
-![alt text](./image/Distribution%20of%20Residuals.png)
-![alt text](./image/Q-Q%20Plot%20of%20Residulas.png)
-![alt text](./image/Residuals%20vs%20Predicted%20Values.png)
+![alt text](./image/1/Actual%20vs%20Predicted.png)
+![alt text](./image/1/Distribution%20of%20Residuals.png)
+![alt text](./image/1/Q-Q%20Plot%20of%20Residulas.png)
+![alt text](./image/1/Residuals%20vs%20Predicted%20Values.png)
